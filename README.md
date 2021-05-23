@@ -116,6 +116,9 @@ Run the database seeder and you're done
 - Allow ADMIN to Create/Retrieve/Update/Delete Companies in the system [ DONE ]
 - Allow ADMIN to Create/Retrieve/Update/Delete Employees in the system [ DONE ]
 
+### Sample Screenshots
+- Sample screenshots can be found on the screenshots-folder
+
 ## Built With Template from
 
 * [mini-crm](https://github.com/Obenny/mini-crm)
